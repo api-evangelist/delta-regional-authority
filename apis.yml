@@ -6,9 +6,9 @@ apis:
     name: Delta Regional Authority
     tags:
       - Federal Government
-    humanURL: www.dra.gov
+    humanURL: https://www.dra.gov
     properties:
-      - url: www.dra.gov
+      - url: https://www.dra.gov
         type: Documentation
     description: >-
       Delta Regional Authority Selects 35 Community Leaders to Participate in
@@ -23,7 +23,7 @@ type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2024-12-03'
-modified: '2024-12-22'
+modified: '2026-03-16'
 position: Consuming
 description: >-
   The DRA was established in 2000 as a formal framework for joint federal-state
@@ -31,5 +31,5 @@ description: >-
   Mississippi River and Alabama Black Belt regions.
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
 specificationVersion: '0.19'
