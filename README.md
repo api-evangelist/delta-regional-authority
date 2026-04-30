@@ -1,42 +1,45 @@
 # Delta Regional Authority (delta-regional-authority)
-The DRA was established in 2000 as a formal framework for joint federal-state collaboration to promote and encourage the economic development of the lower Mississippi River and Alabama Black Belt regions.
+
+The Delta Regional Authority (DRA) is a federal-state partnership established in 2000 to promote and encourage economic development of the lower Mississippi River and Alabama Black Belt regions. DRA does not publish a public REST API; this profile indexes the public website, grants information, and program resources.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/delta-regional-authority/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
+- **x-type:** government
 
-## Tags:
+## Tags
 
- - Federal Government
+- Economic Development, Federal Government, Grants, Mississippi River, Regional Authority, Rural Development
 
 ## Timestamps
 
-- **Created:** 2024-12-03 
-- **Modified:** 2024-12-22 
+- **Created:** 2024-12-03
+- **Modified:** 2026-04-28
 
 ## APIs
 
-### Delta Regional Authority
-Delta Regional Authority Selects 35 Community Leaders to Participate in 2025 Leadership Development Program » Read more. November 12, 2024. DRA October Highlights Forward DRA Monthly Highlights » Read more. November 6, 2024. 2025 DWP Virtual Pre-Award Technical Assistance Workshop Scheduled for Nov. 19.
+### Delta Regional Authority Website
 
-**Human URL:** [www.dra.gov](www.dra.gov)
+The DRA website surfaces grant programs, leadership development, community investment programs, and economic development resources for the eight-state Mississippi Delta and Alabama Black Belt service area.
 
-
-#### Tags:
-
- - API
+- **Human URL:** https://www.dra.gov
 
 #### Properties
 
-- [Documentation](www.dra.gov)
+- [Documentation](https://www.dra.gov)
+- [Programs](https://www.dra.gov/programs/)
+- [Grants](https://www.dra.gov/funding/)
+
+## Common Properties
+
+- [Website](https://www.dra.gov)
+- [News](https://www.dra.gov/news/)
+- [USAspending](https://www.usaspending.gov/agency/delta-regional-authority)
 
 ## Maintainers
 
-**FN:** Kin Lane
-
-**Email:** info@apievangelist.com
-
+- **Kin Lane** - kin@apievangelist.com
