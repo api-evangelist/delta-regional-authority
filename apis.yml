@@ -44,6 +44,8 @@ apis:
       - type: Grants
         url: https://www.dra.gov/funding/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/delta-regional-authority
   - type: Website
     url: https://www.dra.gov
   - type: News
