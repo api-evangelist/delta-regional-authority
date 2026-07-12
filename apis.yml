@@ -44,6 +44,8 @@ apis:
       - type: Grants
         url: https://www.dra.gov/funding/
 common:
+  - type: DomainSecurity
+    url: security/delta-regional-authority-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/delta-regional-authority
   - type: Website
@@ -54,6 +56,8 @@ common:
     url: https://www.dra.gov/contact/
   - type: USAspending
     url: https://www.usaspending.gov/agency/delta-regional-authority
+  - url: https://dra.gov/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
