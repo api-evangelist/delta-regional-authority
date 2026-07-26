@@ -22,11 +22,6 @@ The Delta Regional Authority (DRA) is a federal-state partnership established in
 
 ## APIs
 
-### Delta Regional Authority Website
-
-The DRA website surfaces grant programs, leadership development, community investment programs, and economic development resources for the eight-state Mississippi Delta and Alabama Black Belt service area.
-
-- **Human URL:** https://www.dra.gov
 
 #### Properties
 

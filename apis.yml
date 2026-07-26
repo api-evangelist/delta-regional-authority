@@ -3,9 +3,21 @@ name: Delta Regional Authority
 url: >-
   https://raw.githubusercontent.com/api-evangelist/delta-regional-authority/refs/heads/main/apis.yml
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/delta-regional-authority.png
 tags:
   - Economic Development
   - Federal Government
@@ -14,7 +26,7 @@ tags:
   - Regional Authority
   - Rural Development
 created: '2024-12-03'
-modified: '2026-04-28'
+modified: '2026-07-25'
 specificationVersion: '0.19'
 kind: government
 description: >-
@@ -23,26 +35,7 @@ description: >-
   the lower Mississippi River and Alabama Black Belt regions. DRA does
   not publish a public REST API; this profile indexes the public website,
   grants information, and program resources.
-apis:
-  - aid: delta-regional-authority:dra-website
-    name: Delta Regional Authority Website
-    description: >-
-      The DRA website surfaces grant programs, leadership development,
-      community investment programs, and economic development resources
-      for the eight-state Mississippi Delta and Alabama Black Belt
-      service area.
-    humanURL: https://www.dra.gov
-    tags:
-      - Economic Development
-      - Grants
-      - Programs
-    properties:
-      - type: Documentation
-        url: https://www.dra.gov
-      - type: Programs
-        url: https://www.dra.gov/programs/
-      - type: Grants
-        url: https://www.dra.gov/funding/
+apis: []
 common:
   - type: DomainSecurity
     url: security/delta-regional-authority-domain-security.yml
