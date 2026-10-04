@@ -31,7 +31,7 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/delta-regional-authority.png
 tags:
   - Economic Development
-  - Federal-Government
+  - Federal Government
   - Grants
   - Mississippi River
   - Regional Authority
@@ -43,6 +43,7 @@ tags_raw:
   - Mississippi River
   - Regional Authority
   - Rural Development
+  - Federal-Government
 created: '2024-12-03'
 modified: '2026-07-25'
 specificationVersion: '0.23'
