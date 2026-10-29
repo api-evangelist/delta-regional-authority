@@ -1,4 +1,4 @@
-# Delta Regional Authority (delta-regional-authority)
+# Delta Regional Authority
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,39 +66,96 @@
 
 The Delta Regional Authority (DRA) is a federal-state partnership established in 2000 to promote and encourage economic development of the lower Mississippi River and Alabama Black Belt regions. DRA does not publish a public REST API; this profile indexes the public website, grants information, and program resources.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/delta-regional-authority/refs/heads/main/apis.yml)
+**Areas:** Economic Development · Federal Government · Grants · Mississippi River · Regional Authority · Rural Development
 
-## Scope
+## Delta Regional Authority on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
-- **x-type:** government
+Everything profiled for Delta Regional Authority is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/delta-regional-authority/](https://apis.io/providers/delta-regional-authority/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Economic Development, Federal Government, Grants, Mississippi River, Regional Authority, Rural Development
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Delta Regional Authority Domain Security](https://apis.io/security/delta-regional-authority/delta-regional-authority-domain-security/)
 
+#### Plans and pricing (1)
 
-#### Properties
+Published plans, tiers and prices.
 
-- [Documentation](https://www.dra.gov)
-- [Programs](https://www.dra.gov/programs/)
-- [Grants](https://www.dra.gov/funding/)
+- [Delta Regional Authority Plans Pricing](https://apis.io/plans/delta-regional-authority/delta-regional-authority-plans-pricing/)
 
-## Common Properties
+#### Rate limits (1)
+
+Published request limits.
+
+- [Delta Regional Authority Rate Limits](https://apis.io/rate-limits/delta-regional-authority/delta-regional-authority-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Delta Regional Authority Finops](https://apis.io/finops/delta-regional-authority/delta-regional-authority-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.dra.gov)
-- [News](https://www.dra.gov/news/)
-- [USAspending](https://www.usaspending.gov/agency/delta-regional-authority)
+- [Blog](https://dra.gov/feed/)
 
-## Maintainers
+## API Evangelist rating
 
-- **Kin Lane** - kin@apievangelist.com
+**Kin Score 6.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/delta-regional-authority/](https://apis.io/providers/delta-regional-authority/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Delta Regional Authority: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/delta-regional-authority/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
